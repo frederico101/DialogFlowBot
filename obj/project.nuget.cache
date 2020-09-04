@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "fEnUoB/AJAD+wshk/iYjwgCjATisQp5zEzMj9cGwArSBuuMDmDkNhkv1i4FwhHQBoP2ixqFHuIbwdtWQKPvrNg==",
+  "success": true,
+  "projectFilePath": "/home/developer/Documents/VSCODE/DialogFlowBot/Pizzaria/Pizzaria.csproj",
+  "expectedPackageFiles": [
+    "/home/developer/.nuget/packages/google.api.commonprotos/2.0.0/google.api.commonprotos.2.0.0.nupkg.sha512",
+    "/home/developer/.nuget/packages/google.api.gax/3.0.0/google.api.gax.3.0.0.nupkg.sha512",
+    "/home/developer/.nuget/packages/google.api.gax.grpc/3.0.0/google.api.gax.grpc.3.0.0.nupkg.sha512",
+    "/home/developer/.nuget/packages/google.api.gax.grpc.grpccore/3.0.0/google.api.gax.grpc.grpccore.3.0.0.nupkg.sha512",
+    "/home/developer/.nuget/packages/google.apis/1.44.1/google.apis.1.44.1.nupkg.sha512",
+    "/home/developer/.nuget/packages/google.apis.auth/1.44.1/google.apis.auth.1.44.1.nupkg.sha512",
+    "/home/developer/.nuget/packages/google.apis.core/1.44.1/google.apis.core.1.44.1.nupkg.sha512",
+    "/home/developer/.nuget/packages/google.cloud.dialogflow.v2/3.0.0/google.cloud.dialogflow.v2.3.0.0.nupkg.sha512",
+    "/home/developer/.nuget/packages/google.longrunning/2.0.0/google.longrunning.2.0.0.nupkg.sha512",
+    "/home/developer/.nuget/packages/google.protobuf/3.11.4/google.protobuf.3.11.4.nupkg.sha512",
+    "/home/developer/.nuget/packages/grpc.auth/2.27.0/grpc.auth.2.27.0.nupkg.sha512",
+    "/home/developer/.nuget/packages/grpc.core/2.27.0/grpc.core.2.27.0.nupkg.sha512",
+    "/home/developer/.nuget/packages/grpc.core.api/2.27.0/grpc.core.api.2.27.0.nupkg.sha512",
+    "/home/developer/.nuget/packages/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "/home/developer/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/developer/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
